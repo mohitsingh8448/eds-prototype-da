@@ -7,8 +7,13 @@
       "id": "da-plugin-demo",
       "title": "Plugin demo",
       "environments": ["edit"],
-      "daLibrary": true,
-      "url": "https://main--da-block-collection--aemsites.hlx.live/tools/demo/demo.html"
+      "daLibrary": true
+    },
+    {
+      "id": "experimentation",
+      "titleI18n": { "en": "Experimentation" },
+      "environments": [ "dev", "preview" ],
+      "event": "experimentation"
     },
     {
       "id": "aem-labs",
