@@ -17,14 +17,6 @@
       "event": "experimentation"
     },
     {
-      "id": "edit",
-      "titleI18n": { "en": "edit" },
-      "environments": [ "dev", "preview" ],
-      "daLibrary": true,
-      "event": "edit",
-      "url": "https://www.google.com"
-    },
-    {
       "id": "aem-labs",
       "title": "AEM Labs",
       "environments": ["edit"],
